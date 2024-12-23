@@ -1,0 +1,31 @@
+SMOY Eligibility
+
+- At least 20 minutes played (Lowest Historical is 19.3)
+- At most 35 minutes played (Highest Historical is 33.7)
+- At least 50 games played, half the season (Lowest Historical is 50)
+- At most 40 games started, mathematical limit for SMOY (More 'Off the Bench' than 'Starter'). Kenny Carr and Clyde Drexler are historically outliers.
+- SMOY candidates tend to skew more toward good/winning teams (i.e: high win %)
+
+
+Models
+- 29.41
+- 26.47 (No POS, SMOY_ELG)
+
+NBA Team Win Data Source:
+https://www.basketball-reference.com/leagues/NBA_wins.html
+
+NBA Team Game Total Notes:
+- 1998 Season, Lockout, 50 Game Total
+- 2011 Season, Lockout, 66 Game Total
+- 2012 Season, Cancelation(Boston Marathon Bombing), 81 Game Total for IND and BOS
+- 2019 Season, COVID, 
+    - 64 Game Total (MIN)
+    - 65 Game Total (CHO, CHI, CLE, GSW)
+    - 66 Game Total (NYK, DET) 
+    - 67 Game Total (ATL)
+    - 71 Game Total (LAL, SAS)
+    - 72 Game Total (TOR, BOS, BRK, WAS, LAC, HOU, OKC, UTA, SAC, NOP)
+    - 73 Game Total (MIL, IND, MIA, PHI, ORL, DEN, MEM, PHO)
+    - 74 Game Total (POR)
+    - 75 Game Total (DAL)
+- 2020 Season, COVID, 72 Game Total
