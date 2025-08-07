@@ -1,0 +1,31 @@
+Team,W,L,W/L%,GB,PS/G,PA/G,SRS,Normalized Team,Conference,Division
+Boston Celtics,39,27,.591,—,91.8,89.3,2.26,Boston Celtics,Eastern,Atlantic
+New York Knicks,36,30,.545,3.0,97.8,94.7,2.39,New York Knicks,Eastern,Atlantic
+Philadelphia 76ers,35,31,.530,4.0,93.6,89.4,3.59,Philadelphia 76ers,Eastern,Atlantic
+Toronto Raptors,23,43,.348,16.0,90.7,94.0,-3.67,Toronto Raptors,Eastern,Atlantic
+New Jersey Nets,22,44,.333,17.0,93.1,99.1,-6.37,Brooklyn Nets,Eastern,Atlantic
+Chicago Bulls,50,16,.758,—,96.3,88.2,7.43,Chicago Bulls,Eastern,Central
+Indiana Pacers,42,24,.636,8.0,97.7,94.4,2.60,Indiana Pacers,Eastern,Central
+Milwaukee Bucks,31,35,.470,19.0,99.0,98.7,-0.23,Milwaukee Bucks,Eastern,Central
+Detroit Pistons,25,41,.379,25.0,90.9,95.7,-5.19,Detroit Pistons,Eastern,Central
+Cleveland Cavaliers,21,45,.318,29.0,93.0,100.2,-7.34,Cleveland Cavaliers,Eastern,Central
+Miami Heat,46,20,.697,—,98.5,92.5,5.72,Miami Heat,Eastern,Southeast
+Atlanta Hawks,40,26,.606,6.0,96.6,93.2,2.67,Atlanta Hawks,Eastern,Southeast
+Orlando Magic,37,29,.561,9.0,94.2,93.4,0.46,Orlando Magic,Eastern,Southeast
+Washington Wizards,20,46,.303,26.0,93.6,98.4,-5.14,Washington Wizards,Eastern,Southeast
+Charlotte Bobcats,7,59,.106,39.0,87.0,100.9,-13.96,Charlotte Hornets,Eastern,Southeast
+Oklahoma City Thunder,47,19,.712,—,103.1,96.9,6.44,Oklahoma City Thunder,Western,Northwest
+Denver Nuggets,38,28,.576,9.0,104.1,101.2,3.16,Denver Nuggets,Western,Northwest
+Utah Jazz,36,30,.545,11.0,99.7,99.0,0.92,Utah Jazz,Western,Northwest
+Portland Trail Blazers,28,38,.424,19.0,97.2,97.8,-0.22,Portland Trail Blazers,Western,Northwest
+Minnesota Timberwolves,26,40,.394,21.0,97.9,100.1,-1.83,Minnesota Timberwolves,Western,Northwest
+Los Angeles Lakers,41,25,.621,—,97.3,95.9,1.96,Los Angeles Lakers,Western,Pacific
+Los Angeles Clippers,40,26,.606,1.0,97.5,95.0,2.82,Los Angeles Clippers,Western,Pacific
+Phoenix Suns,33,33,.500,8.0,98.4,98.6,0.29,Phoenix Suns,Western,Pacific
+Golden State Warriors,23,43,.348,18.0,97.8,101.2,-2.79,Golden State Warriors,Western,Pacific
+Sacramento Kings,22,44,.333,19.0,98.8,104.4,-4.95,Sacramento Kings,Western,Pacific
+San Antonio Spurs,50,16,.758,—,103.7,96.5,7.28,San Antonio Spurs,Western,Southwest
+Memphis Grizzlies,41,25,.621,9.0,95.0,93.0,2.43,Memphis Grizzlies,Western,Southwest
+Dallas Mavericks,36,30,.545,14.0,95.8,94.8,1.78,Dallas Mavericks,Western,Southwest
+Houston Rockets,34,32,.515,16.0,98.1,97.9,0.57,Houston Rockets,Western,Southwest
+New Orleans Hornets,21,45,.318,29.0,89.6,93.4,-3.11,New Orleans Pelicans,Western,Southwest

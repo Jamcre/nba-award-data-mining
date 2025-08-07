@@ -1,0 +1,24 @@
+Team,W,L,W/L%,GB,PS/G,PA/G,SRS,Normalized Team,Conference,Division
+Boston Celtics,57,25,.695,—,113.6,107.7,6.15,Boston Celtics,Eastern,Atlantic
+Washington Bullets,38,44,.463,19.0,105.5,106.3,-0.16,Washington Wizards,Eastern,Atlantic
+New York Knicks,38,44,.463,19.0,105.5,106.0,0.14,New York Knicks,Eastern,Atlantic
+Philadelphia 76ers,36,46,.439,21.0,105.7,107.1,-0.79,Philadelphia 76ers,Eastern,Atlantic
+New Jersey Nets,19,63,.232,38.0,100.4,108.5,-6.98,Brooklyn Nets,Eastern,Atlantic
+Detroit Pistons,54,28,.659,—,109.2,104.1,5.46,Detroit Pistons,Eastern,Central
+Chicago Bulls,50,32,.610,4.0,105.0,101.6,3.76,Chicago Bulls,Eastern,Central
+Atlanta Hawks,50,32,.610,4.0,107.9,104.3,4.02,Atlanta Hawks,Eastern,Central
+Milwaukee Bucks,42,40,.512,12.0,106.1,105.5,1.21,Milwaukee Bucks,Eastern,Central
+Cleveland Cavaliers,42,40,.512,12.0,104.5,103.7,1.28,Cleveland Cavaliers,Eastern,Central
+Indiana Pacers,38,44,.463,16.0,104.6,105.4,-0.18,Indiana Pacers,Eastern,Central
+Denver Nuggets,54,28,.659,—,116.7,112.7,3.32,Denver Nuggets,Western,Midwest
+Dallas Mavericks,53,29,.646,1.0,109.3,104.9,3.59,Dallas Mavericks,Western,Midwest
+Utah Jazz,47,35,.573,7.0,108.5,104.8,2.96,Utah Jazz,Western,Midwest
+Houston Rockets,46,36,.561,8.0,109.0,107.6,0.82,Houston Rockets,Western,Midwest
+San Antonio Spurs,31,51,.378,23.0,113.6,118.5,-5.02,San Antonio Spurs,Western,Midwest
+Sacramento Kings,24,58,.293,30.0,108.0,113.7,-5.84,Sacramento Kings,Western,Midwest
+Los Angeles Lakers,62,20,.756,—,112.8,107.0,4.81,Los Angeles Lakers,Western,Pacific
+Portland Trail Blazers,53,29,.646,9.0,116.1,111.5,3.59,Portland Trail Blazers,Western,Pacific
+Seattle SuperSonics,44,38,.537,18.0,111.4,109.3,1.29,Seattle SuperSonics,Western,Pacific
+Phoenix Suns,28,54,.341,34.0,108.5,113.0,-4.80,Phoenix Suns,Western,Pacific
+Golden State Warriors,20,62,.244,42.0,107.0,115.3,-8.38,Golden State Warriors,Western,Pacific
+Los Angeles Clippers,17,65,.207,45.0,98.8,109.1,-10.24,Los Angeles Clippers,Western,Pacific

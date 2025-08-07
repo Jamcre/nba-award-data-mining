@@ -1,0 +1,30 @@
+Team,W,L,W/L%,GB,PS/G,PA/G,SRS,Normalized Team,Conference,Division
+Miami Heat,61,21,.744,—,94.8,89.3,5.56,Miami Heat,Eastern,Atlantic
+New York Knicks,57,25,.695,4.0,95.4,92.2,3.31,New York Knicks,Eastern,Atlantic
+Orlando Magic,45,37,.549,16.0,94.1,94.5,-0.07,Orlando Magic,Eastern,Atlantic
+Washington Bullets,44,38,.537,17.0,99.4,97.7,1.77,Washington Wizards,Eastern,Atlantic
+New Jersey Nets,26,56,.317,35.0,97.2,101.8,-3.89,Brooklyn Nets,Eastern,Atlantic
+Philadelphia 76ers,22,60,.268,39.0,100.2,106.7,-5.89,Philadelphia 76ers,Eastern,Atlantic
+Boston Celtics,15,67,.183,46.0,100.6,107.9,-6.62,Boston Celtics,Eastern,Atlantic
+Chicago Bulls,69,13,.841,—,103.1,92.3,10.70,Chicago Bulls,Eastern,Central
+Atlanta Hawks,56,26,.683,13.0,94.8,89.4,5.52,Atlanta Hawks,Eastern,Central
+Detroit Pistons,54,28,.659,15.0,94.2,88.9,5.45,Detroit Pistons,Eastern,Central
+Charlotte Hornets,54,28,.659,15.0,98.9,97.0,2.13,New Orleans Hornets,Eastern,Central
+Cleveland Cavaliers,42,40,.512,27.0,87.5,85.6,2.32,Cleveland Cavaliers,Eastern,Central
+Indiana Pacers,39,43,.476,30.0,95.4,94.4,1.49,Indiana Pacers,Eastern,Central
+Milwaukee Bucks,33,49,.402,36.0,95.3,97.2,-1.38,Milwaukee Bucks,Eastern,Central
+Toronto Raptors,30,52,.366,39.0,95.5,98.6,-2.56,Toronto Raptors,Eastern,Central
+Utah Jazz,64,18,.780,—,103.1,94.3,7.97,Utah Jazz,Western,Midwest
+Houston Rockets,57,25,.695,7.0,100.6,96.1,3.85,Houston Rockets,Western,Midwest
+Minnesota Timberwolves,40,42,.488,24.0,96.1,97.6,-1.82,Minnesota Timberwolves,Western,Midwest
+Dallas Mavericks,24,58,.293,40.0,90.6,97.0,-6.47,Dallas Mavericks,Western,Midwest
+Denver Nuggets,21,61,.256,43.0,97.8,104.1,-6.40,Denver Nuggets,Western,Midwest
+San Antonio Spurs,20,62,.244,44.0,90.5,98.3,-7.93,San Antonio Spurs,Western,Midwest
+Vancouver Grizzlies,14,68,.171,50.0,89.2,99.4,-10.17,Memphis Grizzlies,Western,Midwest
+Seattle SuperSonics,57,25,.695,—,100.9,93.2,6.91,Seattle SuperSonics,Western,Pacific
+Los Angeles Lakers,56,26,.683,1.0,100.0,95.7,3.66,Los Angeles Lakers,Western,Pacific
+Portland Trail Blazers,49,33,.598,8.0,99.0,94.8,3.56,Portland Trail Blazers,Western,Pacific
+Phoenix Suns,40,42,.488,17.0,102.8,102.2,0.21,Phoenix Suns,Western,Pacific
+Los Angeles Clippers,36,46,.439,21.0,97.2,99.5,-2.66,Los Angeles Clippers,Western,Pacific
+Sacramento Kings,34,48,.415,23.0,96.4,99.8,-3.64,Sacramento Kings,Western,Pacific
+Golden State Warriors,30,52,.366,27.0,99.6,104.4,-4.90,Golden State Warriors,Western,Pacific
