@@ -1,2 +1,0 @@
-Some of the file paths use in the Jupyter notebooks may not work because of different naming in directories.
-- The notebooks will work if the 'project james-smoy-predict' branch is run.
