@@ -10,6 +10,7 @@ This repository contains data mining workflows to predict NBA award winners usin
 
 ## Directory Structure
 
+```bash
 .
 ├── archive/ # Pristine original datasets (read-only)
 │ └── untouched*seasonal_data/ # Raw player stats (1980-2025)
@@ -29,7 +30,7 @@ This repository contains data mining workflows to predict NBA award winners usin
 ├── notebooks/ # Jupyter notebooks
 │ ├── awards/ # Award-specific analyses
 │ │ ├── dpoy/ # Defensive Player models
-│ │ ├── mvp/ # MVP prediction workflows  
+│ │ ├── mvp/ # MVP prediction workflows
 │ │ └── smoy/ # Sixth Man analysis
 │ │
 │ ├── analysis/ # General statistical tools
@@ -37,6 +38,7 @@ This repository contains data mining workflows to predict NBA award winners usin
 │ └── test/ # Experimental code
 │
 └── README.md # This document
+```
 
 ## Key Features
 
